@@ -56,6 +56,8 @@ Experienced in Backend Development with expertise in Node.js, Express and MongoD
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit305)
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitmittal0814@gmail.com)
+[![Leetcode](https://img.shields.io/badge/Leetcode-FFA500)](https://leetcode.com/u/ankitmittal0814/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-228B22)](https://www.hackerrank.com/profile/ankitmittal0814)
 
 ---
 
