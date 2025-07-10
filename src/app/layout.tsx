@@ -14,7 +14,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Shivender Kumar | Software Engineer",
+  title: "Ankit Mittal | Full Stack Developer",
   description:
     "Full-stack software engineer building modern web applications using React, Next.js, Node.js, and TypeScript.",
   applicationName: "SK Portfolio",
