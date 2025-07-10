@@ -12,7 +12,7 @@ const Experience = () => {
       transition={{ duration: 1 }}
       className="px-4 sm:px-6 lg:px-8 flex flex-col items-center justify-center sm:snap-start min-h-screen"
     >
-      <div className="max-w-4xl w-4xl mx-auto space-y-12">
+      <div className="max-w-4xl sm:w-4xl mx-auto space-y-12">
         <h2 className="text-3xl sm:text-4xl font-bold text-center">
           Education
         </h2>
