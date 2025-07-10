@@ -24,7 +24,9 @@ import {
   SiSocketdotio,
   SiTailwindcss,
   SiRedis,
-  SiRazorpay
+  SiRazorpay,
+  SiPostman,
+  SiMysql
 } from "react-icons/si";
 import { MdHttp } from "react-icons/md";
 import { BsFillLockFill } from "react-icons/bs";
@@ -62,7 +64,9 @@ const skillIcons: Record<string, JSX.Element> = {
   "Socket.io": <SiSocketdotio />,
   "Docker": <FaDocker />,
   "Redis": <SiRedis />,
-  "Razorpay": <SiRazorpay />
+  "Razorpay": <SiRazorpay />,
+  "Postman": <SiPostman />,
+  "MySQL": <SiMysql />
 };
 
 export default skillIcons;

@@ -12,7 +12,7 @@ export const skills = {
     // "Sass",
     // "Webpack",
   ],
-  Backend: ["Node.js", "Express.js", "MongoDB", "REST APIs"],
+  Backend: ["Node.js", "Express.js", "MongoDB", "REST APIs", "MySQL"],
   "Cloud & DevOps": ["Docker", "Redis", "CI/CD", "GitHub Actions"],
-  Tools: ["Git", "GitHub", "VS Code", "Razorpay"],
+  Tools: ["Git", "GitHub", "VS Code", "Razorpay", "Postman"],
 };
