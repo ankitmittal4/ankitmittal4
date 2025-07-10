@@ -3,7 +3,7 @@ export const projects = [
     title: "Cric11 – Fantasy Cricket Web App",
     link: "https://cric11-fantasy.onrender.com/",
     description:
-      `Built a full-stack fantasy cricket platform allowing users to create teams, select captain/ vice - captain and join paid contests.\n Integrated live score updates, Razorpay payment gateway and automated email notifications using Nodemailer.`,
+      `Built a full-stack fantasy cricket platform allowing users to create teams, select captain/ vice-captain and join paid contests.\n Integrated live score updates, Razorpay payment gateway and automated email notifications using Nodemailer.`,
     stack: [
       "React",
       "Tailwind CSS",
