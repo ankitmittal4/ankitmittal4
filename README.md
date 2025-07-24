@@ -15,7 +15,7 @@ Experienced in Backend Development with expertise in Node.js, Express and MongoD
 
 - **Frontend:** React.js, Redux Toolkit, HTML, Tailwind CSS
 - **Backend:** Node.js, Express.js, MongoDB, JWT, REST APIs, Postman
-- **DevOps / Cloud:** Docker, Render
+- **DevOps / Cloud:** Docker, Render, AWS CI/CD (GitHub Actions)
 - **Others:** Razorpay, Redis, DSA
 
 ---
@@ -24,10 +24,11 @@ Experienced in Backend Development with expertise in Node.js, Express and MongoD
 
 #### 🗓️ [Cric11 – Fantasy Cricket Web App] (https://cric11-fantasy.onrender.com)
 
-- A full-stack fantasy cricket platform allowing users to create teams, select captain/vice-captain and join paid contests.
-- Integrated live score updates, Razorpay payment gateway and automated email notifications using Nodemailer.
-- Designed an intuitive UI with React, Tailwind CSS, and implemented backend services using Node.js and MongoDB.
-- Build an admin panel to create and manage contests for upcoming matches.
+- Built a full-stack fantasy cricket platform allowing users to create teams, select captain/vice-captain and join paid contests.
+- Integrated live score updates, Razorpay payment and automated email notifications using Nodemailer.
+- Built UI with React, Tailwind CSS and implemented backend services using Node.js and MongoDB.
+- Implemented CI/CD pipeline using GitHub Actions to automate testing and deployment on AWS.
+- Built an admin panel to create and manage contests for upcoming matches.
 
 #### 📝 [Chat with Docs] (https://chatwithdocs-xflo.onrender.com)
 
