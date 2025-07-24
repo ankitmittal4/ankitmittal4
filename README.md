@@ -48,7 +48,7 @@ Experienced in Backend Development with expertise in Node.js, Express and MongoD
 
 - 📧 [ankitmittal0814@gmail.com](mailto:ankitmittal0814@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ankit305/)
-- 🌍 [Portfolio]()
+- 🌍 [Portfolio](https://ankit-pro.onrender.com/)
 
 ---
 
@@ -90,6 +90,8 @@ Experienced in Backend Development with expertise in Node.js, Express and MongoD
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="aws logo"  />
 </div>
 
 ###
