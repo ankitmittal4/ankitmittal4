@@ -15,7 +15,7 @@ Experienced in Backend Development with expertise in Node.js, Express and MongoD
 
 - **Frontend:** React.js, Redux Toolkit, HTML, Tailwind CSS
 - **Backend:** Node.js, Express.js, MongoDB, JWT, REST APIs, Postman
-- **DevOps / Cloud:** Docker, Render, AWS CI/CD (GitHub Actions)
+- **DevOps / Cloud:** Docker, Render, AWS CI/CD (GitHub Actions), AWS (S3, EC2, IAM)
 - **Others:** Razorpay, Redis, DSA
 
 ---
@@ -30,11 +30,11 @@ Experienced in Backend Development with expertise in Node.js, Express and MongoD
 - Implemented CI/CD pipeline using GitHub Actions to automate testing and deployment on AWS.
 - Built an admin panel to create and manage contests for upcoming matches.
 
-#### 📝 [Chat with Docs] (https://chatwithdocs-xflo.onrender.com)
+#### 📝 [Oshoppe E-Commerce Platform] (https://oshoppe-ecom.onrender.com/)
 
-- A full-stack AI-powered web application that enables users to upload PDF or text files and ask questions based on their content.
-- Implemented document parsing and semantic search using Node.js, Express, FAISS and transformer-based models to generate embeddings and retrieve contextually relevant answers.
-- Developed a responsive and user-friendly frontend using React and Tailwind CSS.
+- Developed a full-stack e-commerce platform with dedicated admin and customer interfaces.
+- Admin Panel: Built dashboard with key metrics, product management, dealer–pincode mapping, AWS S3 image storage, order tracking, and category–subcategory–brand catalog organization.
+- Customer Side: Developed responsive interface with location-based availability, wishlist, cart, buy-now, Razorpay payments, invoice generation, order tracking, and multi-address management.
 
 ---
 
