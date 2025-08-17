@@ -20,6 +20,19 @@ Experienced in Backend Development with expertise in Node.js, Express and MongoD
 
 ---
 
+### 🧩 Work Experience
+
+#### 🗓️ [Synvide Business Solutions Pvt. Ltd. – React.js Developer Intern]
+
+- Developed OSHOPPE, a full-stack e-commerce platform with admin panel and customer-facing interface.
+- Implemented location-based product availability, cart, wishlist, checkout, and Razorpay integration.
+- Built admin tools for product, dealer, and order management with AWS S3 image storage.
+
+---
+
+
+---
+
 ### 🧩 Featured Projects
 
 #### 🗓️ [Cric11 – Fantasy Cricket Web App] (https://cric11-fantasy.onrender.com)
