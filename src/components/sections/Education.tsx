@@ -1,12 +1,12 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { experience } from "@/data/experience";
+import { education } from "@/data/education";
 
-const Experience = () => {
+const Education = () => {
   return (
     <motion.section
-      id="experience"
+      id="education"
       initial={{ opacity: 0, y: 100 }}
       whileInView={{ opacity: 1, y: 0 }}
       transition={{ duration: 1 }}
@@ -14,11 +14,11 @@ const Experience = () => {
     >
       <div className="max-w-4xl sm:w-4xl mx-auto space-y-12">
         <h2 className="text-3xl sm:text-4xl font-bold text-center">
-          Work Experience
+          Education
         </h2>
 
         <div className="space-y-8 max-w-full w-full">
-          {experience.map((exp, index) => (
+          {education.map((exp, index) => (
             <div
               key={index}
               className="border border-border shadow-sm rounded-xl p-6 transition hover:shadow-md card-style"
@@ -59,4 +59,4 @@ const Experience = () => {
   );
 };
 
-export default Experience;
+export default Education;

@@ -1,4 +1,4 @@
-import { Hero, Experience, Skills, Projects, CTA } from "@/components/sections";
+import { Hero, Experience, Skills, Projects, CTA, Education } from "@/components/sections";
 import { Footer } from "@/components/layout";
 
 export default function HomePage() {
@@ -14,9 +14,10 @@ export default function HomePage() {
       transition-colors duration-300"
     >
       <Hero />
+      <Experience />
       <Skills />
       <Projects />
-      <Experience />
+      <Education />
       <CTA />
       <Footer />
     </main>

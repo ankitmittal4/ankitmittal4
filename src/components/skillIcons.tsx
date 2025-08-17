@@ -66,7 +66,10 @@ const skillIcons: Record<string, JSX.Element> = {
   "Redis": <SiRedis />,
   "Razorpay": <SiRazorpay />,
   "Postman": <SiPostman />,
-  "MySQL": <SiMysql />
+  "MySQL": <SiMysql />,
+  "AWS S3": <FaAws />,
+  "AWS EC2": <FaAws />,
+  "AWS IAM": <FaAws />,
 };
 
 export default skillIcons;

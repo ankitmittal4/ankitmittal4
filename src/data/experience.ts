@@ -2,58 +2,28 @@
 
 export const experience = [
   {
-    title: "B.Tech Computer Science",
-    company: "U.I.E.T, Kurukshetra",
-    location: "Kurukshetra, Haryana",
-    duration: "8.4 CGPA",
+    title: "React.js Developer Intern ",
+    company: "Synvide Business Solutions",
+    location: "Remote",
+    duration: "Sept 2024 – Nov 2024",
     responsibilities: [
-      "Oct 2022 – Present"
-    ],
-    tech: [
-    ],
-  },
-  {
-    title: "Higher Secondary",
-    company: "Dyal Singh Public School, karnal",
-    location: "Karnal, Haryana",
-    duration: "93%",
-    responsibilities: [
-      "April 2021 – May 2022"
-    ],
-    tech: [
-    ],
-  },
-  {
-    title: "Matriculation",
-    company: "Dyal Singh Public School, karnal",
-    location: "Karnal, Haryana",
-    duration: "94%",
-    responsibilities: [
-      "March 2019 – March 2020"
-    ],
-    tech: [
-    ],
-  },
-  /*
-  {
-    title: "Software Developer Intern (Frontend & Backend)",
-    company: "Sopra Steria",
-    location: "Noida, India",
-    duration: "Jan 2021 – Jun 2021",
-    responsibilities: [
-      "Built modular REST APIs with Node.js and Express.js, integrating Joi for request validation and Google Dialogflow for chatbot automation.",
-      "Designed a COVID-19 data dashboard using React, Chart.js, and Mapbox GL with real-time data visualizations and filters.",
-      "Collaborated in cross-functional teams during agile sprints, contributing to UI/UX improvements and backend functionality.",
+      // "Developed OSHOPPE, a full-stack e-commerce platform with admin panel and customer-facing interface.",
+      // "Implemented location-based product availability, cart, wishlist, checkout, and Razorpay integration.",
+      // "Built admin tools for product, dealer, and order management with AWS S3 image storage.",
+      "Developed and deployed OSHOPPE, a full-stack e-commerce platform featuring both an admin panel and a customer-facing interface.",
+      "Designed and implemented core functionalities including location-based product availability, shopping cart, wishlist, secure checkout process and seamless Razorpay payment gateway integration.",
+      "Built robust admin tools to manage products, dealers and customer orders, incorporating AWS S3 for scalable and reliable image storage.",
+      "Ensured responsive UI/UX, optimized API performance and maintained secure user authentication to deliver a smooth online shopping experience.",
     ],
     tech: [
       "React.js",
+      "Tailwind CSS",
+      "Postman",
       "Node.js",
       "Express.js",
-      "Chart.js",
-      "Mapbox GL",
-      "Dialogflow",
+      "AWS S3",
+      "Razorpay",
     ],
 
   },
-  */
 ];
