@@ -30,9 +30,6 @@ Experienced in Backend Development with expertise in Node.js, Express and MongoD
 
 ---
 
-
----
-
 ### 🧩 Featured Projects
 
 #### 🗓️ [Cric11 – Fantasy Cricket Web App] (https://cric11-fantasy.onrender.com)
