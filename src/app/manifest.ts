@@ -1,15 +1,15 @@
 import type { MetadataRoute } from "next";
 
 const manifest = (): MetadataRoute.Manifest => ({
-  name: "Shivender Kumar Portfolio",
-  short_name: "SK Portfolio",
+  name: "Ankit Mittal Portfolio",
+  short_name: "AM Portfolio",
   start_url: "/",
   id: "/",
   display: "standalone",
   display_override: ["window-controls-overlay", "fullscreen", "minimal-ui"],
   background_color: "#080f1d",
   theme_color: "#080f1d",
-  description: "Portfolio of Shivender Kumar - Full-stack developer.",
+  description: "Portfolio of Ankit Mittal - Full-stack developer.",
   icons: [
     { src: "/favicon.ico", type: "image/x-icon", sizes: "32x32" },
     { src: "/icons/icon-192.png", type: "image/png", sizes: "192x192" },

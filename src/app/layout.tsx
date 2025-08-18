@@ -18,16 +18,14 @@ export const metadata: Metadata = {
   description:
     "Full-stack software engineer building modern web applications using React, Next.js, Node.js, and TypeScript.",
   applicationName: "SK Portfolio",
-  authors: [{ name: "Shivender Kumar", url: "https://www.shivender.pro" }],
-  creator: "Shivender Kumar",
+  authors: [{ name: "Ankit Mittak", url: "https://ankit-pro.onrender.com/" }],
+  creator: "Ankit Mittal",
   keywords: [
-    "Shivender Kumar",
+    "Ankit Mittal",
     "Portfolio",
     "Full Stack Developer",
-    "Next.js",
     "React",
     "Node.js",
-    "TypeScript",
     "Software Engineer",
   ],
   icons: {
@@ -48,17 +46,17 @@ export const metadata: Metadata = {
   },
   manifest: "/manifest.json",
   openGraph: {
-    title: "Shivender Kumar | Software Engineer",
+    title: "Ankit Mittal | Full Stack Developer",
     description:
-      "Explore the portfolio of Shivender Kumar — a full-stack engineer building scalable web applications with React, Next.js, Node.js, and AWS.",
-    url: "https://www.shivender.pro",
-    siteName: "Shivender Portfolio",
+      "Explore the portfolio of Ankit Mittal — a full-stack engineer building scalable web applications with React Node.js, and AWS.",
+    url: "https://ankit-pro.onrender.com/",
+    siteName: "Ankit Mittal Portfolio",
     images: [
       {
         url: "/og.webp",
         width: 1024,
         height: 1024,
-        alt: "Shivender Kumar | Software Engineer Portfolio",
+        alt: "Ankit Mittal | Full Stack Developer Portfolio",
         type: "image/webp",
       },
     ],
@@ -67,9 +65,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Shivender Kumar | Software Engineer",
+    title: "Ankit Mittal | Full Stack Developer",
     description:
-      "Full-stack engineer specializing in React, Next.js, Node.js and TypeScript. Explore my portfolio.",
+      "Full-stack engineer specializing in React, Node.js. Explore my portfolio.",
     images: ["/og.webp"],
     // creator: "@shivender_kumar", // Optional: if you have a Twitter handle
   },
