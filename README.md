@@ -13,10 +13,12 @@ Experienced in Backend Development with expertise in Node.js, Express and MongoD
 
 ### 🚀 Tech Stack
 
-- **Frontend:** React.js, Redux Toolkit, HTML, Tailwind CSS
-- **Backend:** Node.js, Express.js, MongoDB, JWT, REST APIs, Postman
-- **DevOps / Cloud:** Docker, Render, AWS CI/CD (GitHub Actions), AWS (S3, EC2, IAM)
-- **Others:** Razorpay, Redis, DSA
+- **Languages:** C, C++, JavaScript (ES6+)
+- **Frontend:** React.js, Redux Toolkit, HTML, CSS, Tailwind CSS
+- **Backend:** Node.js, Express.js, REST APIs, MongoDB, MySQL, JWT, Redis
+- **Tools & Platforms::** Docker, AWS (S3, ECS, IAM), GitHub Actions (CI/CD Pipelines), Git, GitHub, Postman
+- **Development Practices:** Unit Testing (Jest), Agile Methodologies, SDLC, Version Control
+- **Others:** Razorpay, Nodemailer, DSA
 
 ---
 
