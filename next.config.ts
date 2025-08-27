@@ -34,7 +34,7 @@ const nextConfig: NextConfig = {
     return [
       {
         source: "/:path*",
-        destination: "https://your-new-service.onrender.com/:path*",
+        destination: "https://ankit-devs.onrender.com/:path*",
         permanent: true, // 308 redirect
       },
     ];
