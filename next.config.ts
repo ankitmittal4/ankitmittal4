@@ -33,8 +33,8 @@ const nextConfig: NextConfig = {
   async redirects() {
     return [
       {
-        source: "/:path*",
-        destination: "https://ankit-devs.onrender.com/:path*",
+        source: "/",
+        destination: "https://ankit-devs.onrender.com",
         permanent: true, // 308 redirect
       },
     ];
