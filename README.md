@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ankit Mittal</h1>
-<h3 align="center">Full-Stack Developer | React.js | Node.js | MongoDB | Express | Docker | AWS</h3>
+<h3 align="center">MERN Full-Stack Developer | React.js | TypeScript | Tailwind CSS | Node.js | MongoDB | Express | Docker | AWS</h3>
 
 ---
 
 ### 💫 About Me
 
-Motivated and skilled problem-solver with a solid background in algorithmic challenges, having conquered 500+ LeetCode problems.
-Proficient in React.js, specializing in crafting user-friendly interfaces.
-Experienced in Backend Development with expertise in Node.js, Express and MongoDB, creating robust and scalable server-side applications.
+Full-Stack Developer with strong problem-solving skills, demonstrated by solving 500+ LeetCode challenges. 
+Proficient in React.js, TypeScript, Node.js, Express, and MongoDB, with hands-on experience in building scalable, user-friendly applications. 
+Skilled at writing clean, efficient, and maintainable code to deliver high-quality solutions.
 
 ---
 
