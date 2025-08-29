@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Mittal</h1>
-<h3 align="center">MERN Full-Stack Developer | React.js | TypeScript | Tailwind CSS | Node.js | MongoDB | Express | Docker | AWS</h3>
+<h3 align="center">MERN Stack Developer | React.js | TypeScript | Tailwind CSS | Node.js | MongoDB | Express | Docker | AWS</h3>
 
 ---
 
@@ -61,7 +61,7 @@ Skilled at writing clean, efficient, and maintainable code to deliver high-quali
 
 - 📧 [ankitmittal0814@gmail.com](mailto:ankitmittal0814@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ankit305/)
-- 🌍 [Portfolio](https://ankit-pro.onrender.com/)
+- 🌍 [Portfolio](https://ankit-dev.onrender.com/)
 
 ---
 
@@ -82,9 +82,13 @@ Skilled at writing clean, efficient, and maintainable code to deliver high-quali
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/>        
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
@@ -105,6 +109,12 @@ Skilled at writing clean, efficient, and maintainable code to deliver high-quali
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" height="40" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" height="40" alt="jest logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/networkx/networkx-original.svg" height="40" alt="networking logo" />
+          
+          
 </div>
 
 ###
