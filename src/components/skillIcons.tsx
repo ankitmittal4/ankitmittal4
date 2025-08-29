@@ -10,7 +10,10 @@ import {
   FaSass,
   FaStripe,
   FaCode,
-  FaDocker
+  FaDocker,
+  FaGit,
+  FaDatabase,
+  FaNetworkWired
 
 } from "react-icons/fa";
 import {
@@ -26,7 +29,11 @@ import {
   SiRedis,
   SiRazorpay,
   SiPostman,
-  SiMysql
+  SiMysql,
+  SiBootstrap,
+  SiJest,
+  SiRender,
+  SiCplusplus,
 } from "react-icons/si";
 import { MdHttp } from "react-icons/md";
 import { BsFillLockFill } from "react-icons/bs";
@@ -70,6 +77,13 @@ const skillIcons: Record<string, JSX.Element> = {
   "AWS S3": <FaAws />,
   "AWS EC2": <FaAws />,
   "AWS IAM": <FaAws />,
+  "Bootstrap": <SiBootstrap />,
+  "Unit Testing (Jest)": <SiJest />,
+  "Render": <SiRender />,
+  "Version Control": <FaGit />,
+  "C++": <SiCplusplus />,
+  "DBMS": <FaDatabase />,
+  "Computer Networks": <FaNetworkWired />,
 };
 
 export default skillIcons;

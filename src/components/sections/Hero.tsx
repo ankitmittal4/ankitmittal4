@@ -57,7 +57,7 @@ export default function Hero() {
         transition={{ delay: 0.25 }}
         className="text-lg sm:text-xl text-muted-foreground max-w-2xl"
       >
-        Full-stack developer with strong problem-solving skills, <span className="font-semibold text-foreground">500+ LeetCode</span>{" "}challenges solved, and hands-on experience in <span className="font-semibold text-foreground">React.js</span>,{" "} <span className="font-semibold text-foreground">Node.js</span>,{" "} <span className="font-semibold text-foreground">Express</span>{" "} and <span className="font-semibold text-foreground">MongoDB</span>. I build scalable, user-friendly applications with clean and efficient code.{" "}
+        Full-stack developer with strong problem-solving skills, <span className="font-semibold text-foreground">500+ LeetCode</span>{" "}challenges solved, and hands-on experience in <span className="font-semibold text-foreground">React.js</span>,{" "} <span className="font-semibold text-foreground">TypeScript</span>,{" "} <span className="font-semibold text-foreground">Node.js</span>,{" "} <span className="font-semibold text-foreground">Express</span>{" "} and <span className="font-semibold text-foreground">MongoDB</span>. I build scalable, user-friendly applications with clean and efficient code.{" "}
       </motion.p>
 
       {/* CTA Buttons */}
