@@ -30,15 +30,15 @@ const nextConfig: NextConfig = {
       },
     ];
   },
-  async redirects() {
-    return [
-      {
-        source: "/",
-        destination: "https://ankit-devs.onrender.com",
-        permanent: true, // 308 redirect
-      },
-    ];
-  },
+  // async redirects() {
+  //   return [
+  //     {
+  //       source: "/",
+  //       destination: "https://ankit-devs.onrender.com",
+  //       permanent: true, // 308 redirect
+  //     },
+  //   ];
+  // },
 };
 
 export default nextConfig;
