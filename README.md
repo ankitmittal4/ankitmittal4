@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Mittal</h1>
-<h3 align="center">MERN Stack Developer | React.js | TypeScript | Tailwind CSS | Node.js | MongoDB | Express | Docker | AWS</h3>
+<h3 align="center">MERN Stack Developer | React.js | TypeScript | Tailwind CSS | Node.js | MongoDB | Docker | AWS</h3>
 
 ---
 
@@ -111,10 +111,7 @@ Skilled at writing clean, efficient, and maintainable code to deliver high-quali
   <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" height="40" alt="aws logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" height="40" alt="jest logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/networkx/networkx-original.svg" height="40" alt="networking logo" />
-          
-          
+                    
 </div>
 
 ###
