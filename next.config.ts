@@ -30,6 +30,7 @@ const nextConfig: NextConfig = {
       },
     ];
   },
+  //To redirect to ankit-devs
   // async redirects() {
   //   return [
   //     {
