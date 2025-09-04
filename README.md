@@ -16,7 +16,7 @@ Skilled at writing clean, efficient, and maintainable code to deliver high-quali
 - **Languages:** C, C++, JavaScript (ES6+)
 - **Frontend:** React.js, Redux Toolkit, HTML, CSS, Tailwind CSS
 - **Backend:** Node.js, Express.js, REST APIs, MongoDB, MySQL, JWT, Redis
-- **Tools & Platforms::** Docker, AWS (S3, ECS, IAM), GitHub Actions (CI/CD Pipelines), Git, GitHub, Postman, Razorpay, Nodemailer
+- **Tools & Platforms:** Docker, AWS (S3, ECS, IAM), GitHub Actions (CI/CD Pipelines), Git, GitHub, Postman, Razorpay, Nodemailer
 - **Development Practices:** Unit Testing (Jest), Agile Methodologies, SDLC, Version Control
 - **Others:** Data Structures & Algorithms (DSA), Operating Systems, DBMS, OOPs, Computer Networks
 
