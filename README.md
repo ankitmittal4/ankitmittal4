@@ -11,17 +11,6 @@ Skilled at writing clean, efficient, and maintainable code to deliver high-quali
 
 ---
 
-### 🚀 Tech Stack
-
-- **Languages:** C, C++, JavaScript (ES6+)
-- **Frontend:** React.js, Redux Toolkit, HTML, CSS, Tailwind CSS
-- **Backend:** Node.js, Express.js, REST APIs, MongoDB, MySQL, JWT, Redis
-- **Tools & Platforms:** Docker, AWS (S3, ECS, IAM), GitHub Actions (CI/CD Pipelines), Git, GitHub, Postman, Razorpay, Nodemailer
-- **Development Practices:** Unit Testing (Jest), Agile Methodologies, SDLC, Version Control
-- **Others:** Data Structures & Algorithms (DSA), Operating Systems, DBMS, OOPs, Computer Networks
-
----
-
 ### 💼 Work Experience
 
 #### 🏢 [Synvide Business Solutions Pvt. Ltd. – React.js Developer Intern] (Sept 2024 - Nov 2024)
@@ -49,6 +38,19 @@ Skilled at writing clean, efficient, and maintainable code to deliver high-quali
 - Customer Side: Developed responsive interface with location-based availability, wishlist, cart, buy-now, Razorpay payments, invoice generation, order tracking, and multi-address management.
 
 ---
+
+
+### 🚀 Tech Stack
+
+- **Languages:** C, C++, JavaScript (ES6+)
+- **Frontend:** React.js, Redux Toolkit, HTML, CSS, Tailwind CSS
+- **Backend:** Node.js, Express.js, REST APIs, MongoDB, MySQL, JWT, Redis
+- **Tools & Platforms:** Docker, AWS (S3, ECS, IAM), GitHub Actions (CI/CD Pipelines), Git, GitHub, Postman, Razorpay, Nodemailer
+- **Development Practices:** Unit Testing (Jest), Agile Methodologies, SDLC, Version Control
+- **Others:** Data Structures & Algorithms (DSA), Operating Systems, DBMS, OOPs, Computer Networks
+
+---
+
 
 ### 🔎 Currently Looking For
 
