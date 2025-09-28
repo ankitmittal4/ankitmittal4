@@ -17,6 +17,8 @@ export const experience = [
       "MongoDB",
       "Postman",
       "AWS",
+      "Firebase",
+      "Nodemailer",
       "Twilio",
     ],
 
