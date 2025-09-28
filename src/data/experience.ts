@@ -2,6 +2,26 @@
 
 export const experience = [
   {
+    title: "Backend Developer Intern ",
+    company: "App-Knit",
+    location: "Remote",
+    duration: "Sept 2025 – Present",
+    responsibilities: [
+      "Built RESTful APIs with MVC architecture for clean and scalable solutions.",
+      "Integrated Firebase Cloud Messaging for push notifications, Twilio for phone number OTP verification, and Nodemailer with Handlebars templates for dynamic, customizable email communications.",
+      "Utilized Node.js, MongoDB and AWS for backend development, database management and deployment.",
+    ],
+    tech: [
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Postman",
+      "AWS",
+      "Twilio",
+    ],
+
+  },
+  {
     title: "React.js Developer Intern ",
     company: "Synvide Business Solutions",
     location: "Remote",
