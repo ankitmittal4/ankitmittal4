@@ -34,6 +34,9 @@ import {
   SiJest,
   SiRender,
   SiCplusplus,
+  SiFirebase,
+  SiGmail,
+  SiTwilio,
 } from "react-icons/si";
 import { MdHttp } from "react-icons/md";
 import { BsFillLockFill } from "react-icons/bs";
@@ -84,6 +87,9 @@ const skillIcons: Record<string, JSX.Element> = {
   "C++": <SiCplusplus />,
   "DBMS": <FaDatabase />,
   "Computer Networks": <FaNetworkWired />,
+  "Nodemailer": <SiGmail />,
+  "Twilio": <SiTwilio />,
+  "Firebase": <SiFirebase />,
 };
 
 export default skillIcons;
