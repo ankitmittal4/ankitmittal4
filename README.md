@@ -37,6 +37,12 @@ Skilled at writing clean, efficient, and maintainable code to deliver high-quali
 - Implemented CI/CD pipeline using GitHub Actions to automate testing and deployment on AWS.
 - Built an admin panel to create and manage contests for upcoming matches.
 
+#### 🗓️ [Clean Neighbourhood]
+- A community-focused app that enables students and residents to log litter cleanup activities, upload proof, and track service hours, with an admin panel for verifying submissions and managing users.
+- Developed the backend by building RESTful APIs with Node.js and MongoDB to support user authentication, session management, and data storage.
+- Integrated Firebase notifications for real-time updates and Twilio OTP for secure sign-in.
+- Developed admin panel APIs for reviewing submissions, verifying service hours, and managing user data.
+
 #### 📝 [Oshoppe E-Commerce Platform] (https://oshoppe-ecom.onrender.com/)
 
 - Developed a full-stack e-commerce platform with dedicated admin and customer interfaces.
