@@ -13,6 +13,12 @@ Skilled at writing clean, efficient, and maintainable code to deliver high-quali
 
 ### 💼 Work Experience
 
+#### 🏢 [App-Knit - Backend Developer Intern] (Sept 2025 - Present)
+
+- Built RESTful APIs with MVC architecture for clean and scalable solutions.
+- Integrated Firebase Cloud Messaging for push notifications, Twilio for phone number OTP verification, and Nodemailer with Handlebars templates for dynamic, customizable email communications.
+- Utilized Node.js, MongoDB and AWS for backend development, database management and deployment.
+
 #### 🏢 [Synvide Business Solutions Pvt. Ltd. – React.js Developer Intern] (Sept 2024 - Nov 2024)
 
 - Developed OSHOPPE, a full-stack e-commerce platform with admin panel and customer-facing interface.
