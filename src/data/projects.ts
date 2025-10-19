@@ -18,7 +18,7 @@ export const projects = [
   },
   {
     title: "Clean Neighbourhood",
-    // link: "https://oshoppe-ecom.onrender.com/",
+    link: "",
     description:
       `A community-focused app that enables students and residents to log litter cleanup activities, upload proof, and track service hours, with an admin panel for verifying submissions and managing users.\nIntegrated Firebase notifications for real-time updates and Twilio OTP for secure sign-in.\nDeveloped admin panel APIs for reviewing submissions, verifying service hours, and managing user data.`,
     stack: [
