@@ -1,7 +1,7 @@
 "use client";
 
 import { FaGithub, FaLinkedin } from "react-icons/fa";
-import { SiHackerrank, SiLeetcode } from "react-icons/si";
+import { SiHackerrank, SiLeetcode, SiCodeclimate } from "react-icons/si";
 import { Button } from "@/components/ui/button";
 import { HiOutlineMail } from "react-icons/hi";
 import { motion } from "framer-motion";
@@ -57,7 +57,8 @@ export default function Hero() {
         transition={{ delay: 0.25 }}
         className="text-lg sm:text-xl text-muted-foreground max-w-2xl"
       >
-        Full-stack developer with strong problem-solving skills, <span className="font-semibold text-foreground">500+ LeetCode</span>{" "}challenges solved, and hands-on experience in <span className="font-semibold text-foreground">React.js</span>,{" "} <span className="font-semibold text-foreground">TypeScript</span>,{" "} <span className="font-semibold text-foreground">Node.js</span>,{" "} <span className="font-semibold text-foreground">Express</span>{" "} and <span className="font-semibold text-foreground">MongoDB</span>. I build scalable, user-friendly applications with clean and efficient code.{" "}
+        {/* Full-stack developer with strong problem-solving skills, <span className="font-semibold text-foreground">500+ LeetCode</span>{" "}challenges solved, and hands-on experience in <span className="font-semibold text-foreground">React.js</span>,{" "} <span className="font-semibold text-foreground">TypeScript</span>,{" "} <span className="font-semibold text-foreground">Node.js</span>,{" "} <span className="font-semibold text-foreground">Express</span>{" "} and <span className="font-semibold text-foreground">MongoDB</span>. I build scalable, user-friendly applications with clean and efficient code.{" "} */}
+        Full Stack Developer with hands-on experience in <span className="font-semibold text-foreground">React.js</span>, <span className="font-semibold text-foreground">TypeScript</span>, <span className="font-semibold text-foreground">Node.js</span>, <span className="font-semibold text-foreground">Express</span>, <span className="font-semibold text-foreground">MongoDB</span> and <span className="font-semibold text-foreground">AWS</span>. I build and deploy scalable, user-friendly applications with clean and efficient code. Currently Interning as a <span className="font-semibold text-foreground">Backend Developer</span> at <span className="font-semibold text-foreground">App-Knit</span>, I have strong problem-solving skills and have solved <span className="font-semibold text-foreground">500+ LeetCode</span> challenges.{" "}
       </motion.p>
 
       {/* CTA Buttons */}
@@ -118,6 +119,17 @@ export default function Hero() {
           >
             <SiHackerrank className="w-4 h-4" />
             HackerRank
+          </a>
+        </Button>
+        <Button variant="outline" asChild>
+          <a
+            href="https://www.interviewbit.com/profile/ankit-mittal_735/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center gap-2"
+          >
+            <SiCodeclimate className="w-4 h-4" />
+            InterviewBit
           </a>
         </Button>
       </motion.div>
