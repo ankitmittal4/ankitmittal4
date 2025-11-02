@@ -29,6 +29,15 @@ Skilled at writing clean, efficient, and maintainable code to deliver high-quali
 
 ### 🧩 Featured Projects
 
+#### 🗓️ [Besti.AI] (https://dev-web.bestiai.ai)
+
+- A comprehensive AI-powered clinical support platform for licensed estheticians.
+- Designed and implemented RESTful APIs for user authentication, subscription management, and client/studio (owners, users) operations.
+- Integrated OpenAI GPT models to generate personalized skincare regimens and structured treatment protocols based on user prompts and product inventory.
+- Integrated Stripe for subscription-based feature access, including client limits, regimen/protocol generation, AI usage, renewals, cancellations, and trials.
+- Implemented automated cron jobs for subscription renewals and client follow-up notifications.
+
+
 #### 🗓️ [Cric11 – Fantasy Cricket Web App] (https://cric11-fantasy.onrender.com)
 
 - Built a full-stack fantasy cricket platform allowing users to create teams, select captain/vice-captain and join paid contests.
