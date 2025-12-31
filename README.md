@@ -13,7 +13,7 @@ Skilled at writing clean, efficient, and maintainable code to deliver high-quali
 
 ### 💼 Work Experience
 
-#### 🏢 [App-Knit - Backend Developer Intern] (Sept 2025 - Present)
+#### 🏢 [App-Knit - Backend Developer] (Sept 2025 - Present)
 
 - Built RESTful APIs with MVC architecture for clean and scalable solutions.
 - Integrated Firebase Cloud Messaging for push notifications, Twilio for phone number OTP verification, and Nodemailer with Handlebars templates for dynamic, customizable email communications.
