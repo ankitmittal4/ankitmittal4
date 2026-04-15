@@ -1,5 +1,24 @@
 export const projects = [
   {
+    title: "Versitime - Service Discovery Platform",
+    link: "https://d20jsstcrph9tt.cloudfront.net",
+    description:
+      `-> Designed and developed a scalable backend enabling real-time discovery of nearby service providers using MongoDB geospatial queries (within 10 km radius).
+      -> Integrated Square APIs to sync business details, services and availability slots with auto refresh in every 15 mins.
+      -> Built subscription and payment system using Stripe, supporting freemium onboarding, plan upgrades and renewals.
+      -> Optimized media handling using AWS S3 pre-signed URLs for large-scale uploads, reducing backend load by 30%.
+      -> Developed analytics engine and dashboard APIs to track key metrics (search impressions, profile views, conversions) with time-based insights.`,
+    stack: [
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Square",
+      "Stripe",
+      "AWS",
+      "Unsplash",
+    ],
+  },
+  {
     title: "Besti.AI",
     link: "https://dev-web.bestiai.ai",
     description:
@@ -57,22 +76,22 @@ export const projects = [
       "Twilio",
     ],
   },
-  {
-    title: "Oshoppe E-Commerce Platform",
-    link: "https://oshoppe-ecom.onrender.com/",
-    description:
-      `-> Developed a full-stack AI-powered web application that enables users to upload PDF or text files and ask questions based on their content.
-      -> Implemented document parsing and semantic search using Node.js, Express, FAISS and transformer-based models to generate embeddings and retrieve contextually relevant answers.`,
-    stack: [
-      "React",
-      "Tailwind CSS",
-      "Node.js",
-      "Express.js",
-      "MongoDB",
-      "Razorpay",
-      "AWS S3"
-    ],
-  },
+  // {
+  //   title: "Oshoppe E-Commerce Platform",
+  //   link: "https://oshoppe-ecom.onrender.com/",
+  //   description:
+  //     `-> Developed a full-stack AI-powered web application that enables users to upload PDF or text files and ask questions based on their content.
+  //     -> Implemented document parsing and semantic search using Node.js, Express, FAISS and transformer-based models to generate embeddings and retrieve contextually relevant answers.`,
+  //   stack: [
+  //     "React",
+  //     "Tailwind CSS",
+  //     "Node.js",
+  //     "Express.js",
+  //     "MongoDB",
+  //     "Razorpay",
+  //     "AWS S3"
+  //   ],
+  // },
   // {
   //   title: "Chat with Docs ",
   //   link: "https://chatwithdocs-xflo.onrender.com/",

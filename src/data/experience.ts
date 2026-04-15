@@ -2,20 +2,22 @@
 
 export const experience = [
   {
-    title: "Backend Developer Intern ",
-    company: "App  Knit",
+    title: "Backend Developer",
+    company: "App-Knit",
     location: "Remote",
     duration: "Sept 2025 – Present",
     responsibilities: [
-      "Built RESTful APIs with Node.js, Express, and MongoDB using MVC architecture for scalable backend solutions.",
-      "Integrated Firebase Cloud Messaging for push notifications, Twilio for phone number OTP verification, and Nodemailer with Handlebars templates for dynamic, customizable email communications.",
-      "Deployed backend services on AWS ensuring scalability, performance, and secure API access.",
-      "Integrated OpenAI GPT models and Stripe subscription billing to power personalized skincare regimens, automated treatment protocols, and secure plan-based access.",
+      "Architected scalable REST APIs using Node.js, Express and MongoDB(MVC), enabling real - time service discovery via geospatial queries and implemented Redis - based session management.",
+      "Orchestrated third - party integrations including Square, Firebase and Twilio, enabling real - time data synchronization, push notifications, and secure OTP - based authentication.",
+      "Engineered Stripe - based subscription workflows supporting plan upgrades, renewals and secure access control.",
+      "Deployed scalable backend infrastructure on AWS with secure API access, leveraging OpenAI GPT models to generate personalized skincare recommendations and automated treatment workflows.",
     ],
     tech: [
       "Node.js",
       "Express.js",
+      "TypeScript",
       "MongoDB",
+      "Redis",
       "Postman",
       "Firebase",
       "Nodemailer",

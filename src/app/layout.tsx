@@ -14,6 +14,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://ankit-pro.onrender.com"),
   title: "Ankit Mittal | Full Stack Developer",
   description:
     "Full-stack software engineer building modern web applications using React, Next.js, Node.js, and TypeScript.",
@@ -87,7 +88,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" suppressHydrationWarning>
+    <html lang="en" suppressHydrationWarning className="dark">
       <body className={`${inter.className} scroll-smooth`}>
         <ThemeProvider attribute="class" defaultTheme="dark">
           {children}

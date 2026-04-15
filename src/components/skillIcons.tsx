@@ -46,7 +46,7 @@ import { JSX } from "react";
 const skillIcons: Record<string, JSX.Element> = {
   HTML5: <FaHtml5 />,
   CSS3: <FaCss3Alt />,
-  Javascript: <FaJs />,
+  JavaScript: <FaJs />,
   "React.js": <FaReact />,
   "Next.js": <SiNextdotjs />,
   "Tailwind CSS": <SiTailwindcss />,
