@@ -28,7 +28,7 @@ Backend Developer at App-Knit with ~8 months of hands-on experience in Node.js, 
 
 ### 🧩 Featured Projects
 
-#### 🗓️ [Versitime - Service Discovery Platform] (https://dev-web.bestiai.ai](https://d20jsstcrph9tt.cloudfront.net)
+#### 🗓️ [Versitime - Service Discovery Platform] (https://d20jsstcrph9tt.cloudfront.net)
 
 - Designed and developed a scalable backend enabling real-time discovery of nearby service providers using MongoDB geospatial queries (within 10 km radius).
 - Integrated Square APIs to sync business details, services and availability slots with auto refresh in every 15 mins.
