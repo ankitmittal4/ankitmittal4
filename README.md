@@ -5,9 +5,7 @@
 
 ### 💫 About Me
 
-Full-Stack Developer with strong problem-solving skills, demonstrated by solving 500+ LeetCode challenges. 
-Proficient in React.js, TypeScript, Node.js, Express, and MongoDB, with hands-on experience in building scalable, user-friendly applications. 
-Skilled at writing clean, efficient, and maintainable code to deliver high-quality solutions.
+Backend Developer at App-Knit with ~8 months of hands-on experience in Node.js, Express, and MongoDB, building scalable APIs and real-time systems. Skilled in designing production-ready architectures, integrating third-party services (Stripe, Square, Firebase). Strong problem-solving ability with 600+ LeetCode problems solved.
 
 ---
 
@@ -15,9 +13,10 @@ Skilled at writing clean, efficient, and maintainable code to deliver high-quali
 
 #### 🏢 [App-Knit - Backend Developer] (Sept 2025 - Present)
 
-- Built RESTful APIs with MVC architecture for clean and scalable solutions.
-- Integrated Firebase Cloud Messaging for push notifications, Twilio for phone number OTP verification, and Nodemailer with Handlebars templates for dynamic, customizable email communications.
-- Utilized Node.js, MongoDB and AWS for backend development, database management and deployment.
+- Architected scalable REST APIs using Node.js, Express and MongoDB(MVC), enabling real - time service discovery via geospatial queries and implemented Redis - based session management.
+- Orchestrated third - party integrations including Square, Firebase and Twilio, enabling real - time data synchronization, push notifications, and secure OTP - based authentication.
+- Engineered Stripe - based subscription workflows supporting plan upgrades, renewals and secure access control.
+- Deployed scalable backend infrastructure on AWS with secure API access, leveraging OpenAI GPT models to generate personalized skincare recommendations and automated treatment workflows.
 
 #### 🏢 [Synvide Business Solutions Pvt. Ltd. – React.js Developer Intern] (Sept 2024 - Nov 2024)
 
@@ -29,6 +28,14 @@ Skilled at writing clean, efficient, and maintainable code to deliver high-quali
 
 ### 🧩 Featured Projects
 
+#### 🗓️ [Versitime - Service Discovery Platform] (https://dev-web.bestiai.ai](https://d20jsstcrph9tt.cloudfront.net)
+
+- Designed and developed a scalable backend enabling real-time discovery of nearby service providers using MongoDB geospatial queries (within 10 km radius).
+- Integrated Square APIs to sync business details, services and availability slots with auto refresh in every 15 mins.
+- Built subscription and payment system using Stripe, supporting freemium onboarding, plan upgrades and renewals.
+- Optimized media handling using AWS S3 pre-signed URLs for large-scale uploads, reducing backend load by 30%.
+- Developed analytics engine and dashboard APIs to track key metrics (search impressions, profile views, conversions) with time-based insights.
+ 
 #### 🗓️ [Besti.AI] (https://dev-web.bestiai.ai)
 
 - A comprehensive AI-powered clinical support platform for licensed estheticians.
@@ -63,10 +70,10 @@ Skilled at writing clean, efficient, and maintainable code to deliver high-quali
 
 ### 🚀 Tech Stack
 
-- **Languages:** C, C++, JavaScript (ES6+)
-- **Frontend:** React.js, Redux Toolkit, HTML, CSS, Tailwind CSS
-- **Backend:** Node.js, Express.js, REST APIs, MongoDB, MySQL, JWT, Redis
-- **Tools & Platforms:** Docker, AWS (S3, ECS, IAM), GitHub Actions (CI/CD Pipelines), Git, GitHub, Postman, Razorpay, Nodemailer
+- **Languages:** C, C++, JavaScript (ES6+), TypeScript
+- **Frontend:** : HTML, CSS, Tailwind CSS, Bootstrap, React.js, Redux Toolkit
+- **Backend:** Node.js, Express.js, REST APIs, MongoDB, MySQL, JWT, Redis, Firebase, Twilio, Stripe
+- **Tools & Platforms:** Docker, AWS (S3, ECS, IAM), GitHub Actions (CI/CD Pipelines), Git, GitHub, Postman
 - **Development Practices:** Unit Testing (Jest), Agile Methodologies, SDLC, Version Control
 - **Others:** Data Structures & Algorithms (DSA), Operating Systems, DBMS, OOPs, Computer Networks
 
@@ -75,7 +82,7 @@ Skilled at writing clean, efficient, and maintainable code to deliver high-quali
 
 ### 🔎 Currently Looking For
 
-- Internsips or Full-time roles as a **Full-Stack Developer** or **Frontend Engineer**
+- Full-time roles as a **Full-Stack Developer** or **Backend Developer**
 - Open to **remote**, **hybrid** and **on-site** opportunities
 
 ---
