@@ -13,8 +13,7 @@ import {
   FaDocker,
   FaGit,
   FaDatabase,
-  FaNetworkWired
-
+  FaNetworkWired,
 } from "react-icons/fa";
 import {
   SiNextdotjs,
@@ -71,7 +70,7 @@ const skillIcons: Record<string, JSX.Element> = {
   OAuth: <BsFillLockFill />,
   Stripe: <FaStripe />,
   "CI/CD": <HiOutlineServer />,
-  "Socket.io": <SiSocketdotio />,
+  "Socket.IO": <SiSocketdotio />,
   "Docker": <FaDocker />,
   "Redis": <SiRedis />,
   "Razorpay": <SiRazorpay />,

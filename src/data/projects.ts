@@ -1,7 +1,48 @@
 export const projects = [
   {
+    title: "Athlete Marketplace",
+    link: "",
+    description:
+      `-> Architected and developed RESTful backend APIs using Node.js, Express.js, and MongoDB for a multi-role sports marketplace supporting Athletes, Coaches, Mentors and Administrators across India and the US.
+      -> Built end-to-end booking and session management with slot availability, cancellations, rescheduling, and validation.
+      -> Integrated Razorpay and Stripe payment gateways with country-based routing, refunds and payout workflows.
+      -> Implemented authentication, RBAC, OTP verification, and social login with MSG91 and Twilio.
+      -> Built backend services for marketplace discovery, filtering, ratings, messaging, notifications, report/block features, and admin approval workflows.`,
+    stack: [
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Redis",
+      "Stripe",
+      "Razorpay",
+      "Socket.IO",
+      "Twilio",
+      "AWS",
+    ],
+  },
+  {
+    title: "Event Broadcasting",
+    link: "",
+    description:
+      `-> Built a real-time live-streaming backend using Node.js, TypeScript, Agora RTC, Socket.IO, and Redis.
+      -> Implemented real-time chat, reactions, viewer tracking, and event-based room communication.
+      -> Developed Redis-backed viewer sessions and heartbeat tracking with background workers for accurate view counting.
+      -> Implemented webhook-based broadcast lifecycle management with automatic stream finalization.
+      -> Built personalized event ranking engine using user behavior, engagement, social signals, and decay-weighted scoring.`,
+    stack: [
+      "Node.js",
+      "Express.js",
+      "TypeScript",
+      "MongoDB",
+      "Redis",
+      "Socket.IO",
+      "Agora RTC",
+      "AWS",
+    ],
+  },
+  {
     title: "Versitime - Service Discovery Platform",
-    link: "https://d20jsstcrph9tt.cloudfront.net",
+    link: "https://www.versitime.com",
     description:
       `-> Designed and developed a scalable backend enabling real-time discovery of nearby service providers using MongoDB geospatial queries (within 10 km radius).
       -> Integrated Square APIs to sync business details, services and availability slots with auto refresh in every 15 mins.
@@ -16,26 +57,6 @@ export const projects = [
       "Stripe",
       "AWS",
       "Unsplash",
-    ],
-  },
-  {
-    title: "Besti.AI",
-    link: "https://dev-web.bestiai.ai",
-    description:
-      `-> A comprehensive AI-powered clinical support platform for licensed estheticians.
-      -> Designed and implemented RESTful APIs for user authentication, subscription management, and client/studio(owners, users) operations.
-      -> Integrated OpenAI GPT models to generate personalized skincare regimens and structured treatment protocols dynamically based on user prompts and product inventory.
-      -> Integrated Stripe for plan-based subscription billing, renewals, cancellations, and trial management.`,
-    stack: [
-      "Node.js",
-      "Express.js",
-      "MongoDB",
-      "OpenAI GPT",
-      "Stripe",
-      "Docker",
-      "NodeMailer",
-      "Firebase",
-      "AWS",
     ],
   },
   {
@@ -56,24 +77,6 @@ export const projects = [
       "Docker",
       "NodeMailer",
       "JWT"
-    ],
-  },
-  {
-    title: "Clean Neighbourhood",
-    link: "",
-    description:
-      `-> A community-focused app that enables students and residents to log litter cleanup activities, upload proof, and track service hours, with an admin panel for verifying submissions and managing users. 
-      -> Integrated Firebase notifications for real-time updates and Twilio OTP for secure sign-in.
-      -> Developed admin panel APIs for reviewing submissions, verifying service hours, and managing user data.`,
-    stack: [
-      "Node.js",
-      "Express.js",
-      "MongoDB",
-      "Postman",
-      "AWS",
-      "Firebase",
-      "Nodemailer",
-      "Twilio",
     ],
   },
   // {
