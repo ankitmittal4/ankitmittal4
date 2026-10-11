@@ -15,9 +15,9 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://ankit-pro.onrender.com"),
-  title: "Ankit Mittal | Full Stack Developer",
+  title: "Ankit Mittal | Backend Developer",
   description:
-    "Full-stack software engineer building modern web applications using React, Next.js, Node.js, and TypeScript.",
+    "Backend engineer building modern web applications using React, Next.js, Node.js, and TypeScript.",
   applicationName: "SK Portfolio",
   authors: [{ name: "Ankit Mittak", url: "https://ankit-pro.onrender.com/" }],
   creator: "Ankit Mittal",
